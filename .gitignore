@@ -5,6 +5,7 @@ node_modules/
 dist/
 
 # Ignore IDE and editor files
+.env
 .vscode/
 .idea/
 *.sublime-project
